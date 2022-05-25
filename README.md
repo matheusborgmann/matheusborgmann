@@ -1,7 +1,6 @@
 - # Hi my name is Matheus!
 - 👀 I’m interested in learning AI and machine learning, i want to automate everything i can to make life a little bit easier.
-- 🌱 I’m currently learning Front end.
-- > Then i'm heading to python and java
+- 🌱 I’m currently learning Java and MYSQL.
 - 💞️ I’m looking to collaborate on any project that i could learn more and make an impact i may be fresh on a lot of things in the world of programming yet but i do enjoy the art of coding!
 - 📫 How to reach me: matheusestevanborg@gmail.com
 
